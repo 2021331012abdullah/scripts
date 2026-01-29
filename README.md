@@ -23,7 +23,7 @@ CodeBlocks with MingW
 
 <br/><br/>
 
-First write ```powewrshell```
+First write ```powershell```
 
 ```
 $MinGWPath = "C:\Program Files\CodeBlocks\MinGW\bin"
@@ -32,7 +32,7 @@ $MinGWPath = "C:\Program Files\CodeBlocks\MinGW\bin"
 
 <br/><br/>
 
-First write ```powewrshell```
+First write ```powershell```
 
 Python
 ```winget install -e --id Python.Python.3.13```
