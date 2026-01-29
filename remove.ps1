@@ -1,0 +1,1 @@
+Set-NetFireWallProfile -Profile Domain,Public,Private -DefaultOutboundAction Allow
