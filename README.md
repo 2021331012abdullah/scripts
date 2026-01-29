@@ -5,11 +5,11 @@
 ```powershell -ExecutionPolicy Bypass -File remove.ps1```
 
 
-
+Sublime
 ```winget install -e --id SublimeHQ.SublimeText.4```
 
 
-
+CodeBlocks with MingW
 ```winget install -e --id CodeBlocks.CodeBlocks.MinGW```
 
 ```
@@ -19,7 +19,7 @@ $MinGWPath = "C:\Program Files\CodeBlocks\MinGW\bin"
 
 
 
-
+Python
 ```winget install -e --id Python.Python.3.13```
 
 ```
