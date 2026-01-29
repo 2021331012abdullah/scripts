@@ -5,16 +5,16 @@
 ```powershell -ExecutionPolicy Bypass -File remove.ps1```
 
 Vscode ```winget install Microsoft.VisualStudioCode```
-<br/><br/><br/>
+<br/><br/>
 Sublime
 ```winget install -e --id SublimeHQ.SublimeText.4```
 
-<br/><br/><br/><br/><br/>
+<br/><br/>
 CodeBlocks with MingW
 ```winget install -e --id CodeBlocks.CodeBlocks.MinGW```
 
 
-<br/><br/><br/>
+<br/><br/>
 
 First write ```powewrshell```
 
@@ -23,8 +23,7 @@ $MinGWPath = "C:\Program Files\CodeBlocks\MinGW\bin"
 [System.Environment]::SetEnvironmentVariable("Path", $env:Path + ";" + $MinGWPath, "Machine")
 ```
 
-
-<br/><br/><br/>
+<br/><br/>
 
 First write ```powewrshell```
 
