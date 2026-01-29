@@ -4,6 +4,7 @@
 
 ```powershell -ExecutionPolicy Bypass -File remove.ps1```
 
+Vscode ```winget install Microsoft.VisualStudioCode```
 
 Sublime
 ```winget install -e --id SublimeHQ.SublimeText.4```
