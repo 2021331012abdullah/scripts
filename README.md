@@ -1,3 +1,9 @@
+If this doesnt work. add in proxy:
+```*codeforces.com;*.cloudflare.com;*.cloudflareinsights.com;challenges.cloudflare.com```
+
+
+
+
 ```cd downloads```
 
 ```powershell -ExecutionPolicy Bypass -File block.ps1```
